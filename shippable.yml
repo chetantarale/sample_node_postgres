@@ -1,3 +1,5 @@
+build_image: shippable/minv2
+
 language: node_js
 
 # Services used by app
