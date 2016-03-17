@@ -4,7 +4,7 @@ language: node_js
 
 # Services used by app
 services:
-  - postgres
+  - postgresql
 
 node_js:
   - 0.10.25
